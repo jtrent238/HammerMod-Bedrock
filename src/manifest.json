@@ -1,0 +1,9 @@
+{
+  "format_version": 1,
+  "header": {
+    "uuid": "6eae0cfc-e889-4ad4-b6ce-b7bddb6ffe73",
+    "name": "HammerMod Bedrock",
+    "version": [ 1, 0, 0 ],
+    "description": "This is my HammerMod for the Bedrock version of Minecraft"
+  }
+}
