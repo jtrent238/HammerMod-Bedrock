@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "uuid": "21def118-cfea-11e9-bb65-2a2ae2dbcce4",
+    "name": "HammerMod",
+    "version": [ 1, 8, 0 ],
+    "description": "This is my HammerMod for the Bedrock version of Minecraft"
+  },
+  "modules": [
+    {
+      "description": "Not Used",
+      "version": [ 1, 8, 0 ],
+      "uuid": "04fd002e-cfec-11e9-bb65-2a2ae2dbcce4",
+      "type": "data"
+    }
+  ],
+    "dependencies": [
+        {
+			"uuid": "21def118-cfea-11e9-bb65-2a2ae2dbcce4",
+            "version": [0, 0, 1]
+        }
+    ]
+}

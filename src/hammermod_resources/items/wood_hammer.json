@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "hammermod:wood_hammer",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "wood_hammer",
+      "minecraft:render_offsets": "apple",
+	  "minecraft:stacked_by_data": true
+    }
+  }
+}

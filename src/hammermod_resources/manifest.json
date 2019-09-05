@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "HammerMod Resource Pack",
+    "name": "HammerModResourcePack",
+    "uuid": "21def118-cfea-11e9-bb65-2a2ae2dbcce4",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "HammerMod Resource Pack",
+      "type": "resources",
+      "uuid": "43d91c76-cfea-11e9-bb65-2a2ae2dbcce4",
+      "version": [0, 0, 1]
+    }
+  ]
+}
